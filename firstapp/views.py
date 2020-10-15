@@ -8,3 +8,5 @@ def index(request):
 
 def about(request):
     return render(request, 'firstapp/about.html')
+
+
